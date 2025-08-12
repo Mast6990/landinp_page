@@ -2,4 +2,48 @@ header{
     background-color: blueviolet;
     height: 50px;
     align-items: center;
+    text-align: center;
 }
+main{
+background-color: cadetblue;
+height: 100px;
+}
+
+
+ul{
+    color: coral;
+    position: relative;
+    display: flex;
+  justify-content:center;
+  gap: 50px;
+  list-style-type: none;
+}
+
+.menu li{list-style-type: none;
+
+}
+
+nav{
+    background-color: brown;
+}
+
+#produtos{
+    background-color: aqua;
+    height: 700px;
+}
+
+#real{
+    background-color: crimson;
+    height: 700px;
+}
+
+#história{
+    background-color: darkgoldenrod;
+    height: 700px;
+}
+
+#cadastro{
+    background-color: deeppink;
+    height: 700px;
+}
+
