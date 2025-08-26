@@ -1,12 +1,12 @@
 header{
-    background-color: blueviolet;
-    height: 50px;
+    background-color: #3a8dff;
+    height: 100px;
     align-items: center;
     text-align: center;
 }
 main{
-background-color: cadetblue;
-height: 100px;
+background-color:#f5f5dc;
+height: 700px;
 }
 
 
@@ -20,20 +20,20 @@ ul{
 }
 
 .menu li{list-style-type: none;
-
+   
 }
 
 nav{
-    background-color: brown;
+    background-color: rgb(10, 10, 10);
 }
 
 #produtos{
-    background-color: aqua;
-    height: 700px;
+    background: color #fafadd;;
+    height: 700PX;
 }
 
 #real{
-    background-color: crimson;
+    background-color:#f5f5dc;
     height: 700px;
 }
 
@@ -47,3 +47,7 @@ nav{
     height: 700px;
 }
 
+footer{
+   
+
+}
