@@ -1,3 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+}
+
+
+
+
+
 header{
     background-color: #3a8dff;
     height: 100px;
@@ -5,8 +17,8 @@ header{
     text-align: center;
 }
 main{
-background-color:#f5f5dc;
-height: 700px;
+    background-color:#f5f5dc;
+    height: 700px;
 }
 
 
@@ -48,6 +60,37 @@ nav{
 }
 
 footer{
-   
+   background-color: #3a8dff;
 
 }
+
+.menu{
+    background-color: black;
+    font-weight: bold;
+}
+
+.menu a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    transition: 0.6s;
+ }   
+.menu a:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+
+
+.menu li{
+    display: inline;
+    padding: 10px;
+}
+
+.texto_1{
+    background-color: navajowhite;
+    margin:0 50px 0 50px;
+
+}
+ #produtos{
+    padding-top: 30px;
+ }
