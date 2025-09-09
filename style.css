@@ -22,7 +22,7 @@ main{
 }
 
 
-ul{
+nav ul{
     color: coral;
     position: relative;
     display: flex;
@@ -94,3 +94,7 @@ footer{
  #produtos{
     padding-top: 30px;
  }
+
+.lista{
+    text-align: left;
+}
