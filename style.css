@@ -4,8 +4,11 @@
 }
 body{
     text-align: center;
+    
 }
-
+main{
+    padding: 15px;
+}
 
 
 
@@ -15,6 +18,7 @@ header{
     height: 100px;
     align-items: center;
     text-align: center;
+    ;
 }
 main{
     background-color:#f5f5dc;
@@ -41,7 +45,7 @@ nav{
 
 #produtos{
     background: color #fafadd;;
-    height: 700PX;
+    height: 700px;
 }
 
 #real{
